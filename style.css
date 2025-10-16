@@ -12,8 +12,8 @@ body {
   background-color: rgb(0, 0, 0);
 }
 
-.container div {
-  background-color: #f1f1f1;
+.container-div {
+  background-color: #000000;
   margin: 10px;
   padding: 20px;
   font-size: 30px;
