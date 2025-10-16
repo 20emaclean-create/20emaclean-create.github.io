@@ -7,11 +7,7 @@ body {
   background-size: 100vw 100vh;
 }
 
-.myDiv {
-  border: 5px outset rgb(177, 194, 183);
-  background-color: rgb(30, 85, 19);
-  text-align: center;
-}
+
 
 
 
@@ -20,7 +16,7 @@ h1 {
   color: white;
 }
 
-.myDivBalls{
+.myDiv{
   margin-top: 10vh;
   text-align: center;
   font-family: "DM Sans", sans-serif;
